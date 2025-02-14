@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrPause",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrPause",
+  "parent":{
+    "name":"OtherSetting",
+    "path":"folders/OtherSetting.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
